@@ -1,3 +1,3 @@
 # GitHub_Java_Project
 GitHub for Java projects
-This file has been edited in the B branch.
+This file has been edited in the C branch.
